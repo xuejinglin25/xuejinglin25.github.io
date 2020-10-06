@@ -1,0 +1,52 @@
+<html lang="zh-cn">
+<head>欢迎来到薛婧琳的网站！</head>
+<body>
+
+<h1>1.自我介绍<h1>
+<p>  我叫薛婧琳，2002年9月25日出生于北京，老家位于山东济南。我的小学就读于北京外国语大学附属小学，初中就读于北京101中学，高中毕业于清华大学附属中学，大学现就读于北京大学药学院。本人较为幽默，性格开朗，与同学们关系十分融洽。我的爱好较为广泛，喜欢打篮球，踢足球，打乒乓球等球类运动；还喜欢弹吉他，听音乐，看小说；课余时间也爱与朋友们一起玩桌游，推理游戏,棋类游戏。</p> 
+<img src="">
+
+<h1>2.兴趣爱好</h1> 
+
+<h2>打篮球</h2>
+<img src="/image/b1.jpg">
+
+<h2>踢足球</h2>
+<img src="">
+
+<h2>弹吉他</h2>
+<img src="">
+
+
+<h1>3.学科兴趣发展</h1>
+<h2>化学</h2>
+<p>课下做化学实验</p>
+<img src="">
+
+<h1>4.我喜欢的事物</h1>
+
+<h2>Book</h2>
+<p>红楼梦</p>
+<h2>Movie</h2>
+<p>哈利波特</p>
+<h2>TV Series</h2>
+<p>三生三世十里桃花</p>
+<a href="http://m.v.qq.com/play.html?cid=iqu86zbyq3nfuqy&vid=e002203jfc3&vuid24=GfsT0Vey%2BABw38uzR9R%2FnA%3D%3D&url_from=share&second_share=0&share_from=wxf&pgid=page_detail&mod_id=mod_toolbar">点击观看</a>
+<p>老友记</p>
+<a href="https://pan.baidu.com/s/1uMbQg7_xMHu6EslR3IScqQ">资源分享</a>
+<p>提取码:863a</p>
+<h2>Music</h2>
+<p>漂洋过海来看你</p>
+<a href="https://y.qq.com/n/yqq/song/0010QVBj2VqfBx.html?ADTAG=h5_playsong&no_redirect=1">点击就听！</a>
+<h2>Stage</h2>
+<p>斯芬克斯</p>
+<a href="https://i.y.qq.com/n2/m/share/details/mv.html?platform=11&appshare=android_qq&appversion=10050006&hosteuin=oK6kowEAoK4z7ecAoiSPNK6A7z**&vid=q00349jvrpg&ADTAG=wxfshare">点击就看！</a>
+<h2>Game</h2>
+<p>神奇小妖怪</p>
+<a href="http://www.4399.com/flash/7310_1.htm">点击就玩！</a>
+
+<h1>获奖情况</h1>
+<p>高中运动会：跳远金牌*2，400m银牌*1</p>
+<img src="">
+</body>
+</html>
