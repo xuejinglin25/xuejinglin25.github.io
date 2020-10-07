@@ -1,13 +1,20 @@
 # xuejinglin25.github.io
 <html lang="zh-cn">
 <meta charset="utf-8">
-<head>Welcome to September_Xue's Website！</head>
+<head>Welcome to September_Xue's Website！
+<style type="text/css">
+	body{
+        background-color:D9FFFF
+    }
+</style>
+</head>
+
 <body>
 
 <h1>1.自我介绍<h1>
 <img src="D:/My Photo/成人礼.jpg" alt="成人的小薛" width="400" height="550">
 
-<p>  我叫薛婧琳，2002年9月25日出生于北京，老家位于山东济南。我的小学就读于北京外国语大学附属小学，初中就读于北京101中学，高中毕业于清华大学附属中学，大学现就读于北京大学药学院。本人较为幽默，性格开朗，与同学们关系融洽，是一个沙雕小朋友。我的爱好较为广泛，喜欢打篮球，踢足球，打乒乓球等球类运动；还喜欢弹吉他，听音乐，看小说；课余时间也爱与朋友们一起玩桌游，推理游戏，也会一起打电脑游戏，想想就很快乐！</p> 
+<p>  我叫薛婧琳，2002年9月25日出生于北京，老家位于山东济南。我的小学就读于北京外国语大学附属小学，初中就读于北京101中学，高中毕业于清华大学附属中学，大学现就读于北京大学药学院。本人较为幽默，性格开朗，与同学们关系融洽，是一个沙雕小朋友。我的爱好较为广泛，喜欢打篮球，踢足球，打乒乓球等球类运动；还喜欢弹吉他，听音乐，看小说；课余时间也爱与朋友们一起玩桌游，推理游戏，有时也会一起打电脑游戏，就很快乐！</p> 
 
 
 <h1>2.兴趣爱好</h1> 
@@ -49,6 +56,13 @@
 
 <p>Not Me-THE9</p>
 <a href="https://i.y.qq.com/n2/m/share/details/mv.html?platform=11&appshare=android_qq&appversion=10050006&hosteuin=oK6kowEAoK4z7ecAoiSPNK6A7z**&vid=q0034xrl3r0&ADTAG=wxfshare">点击就看</a>
+
+<h2>综艺</h2>
+
+<p>非日常派对</p>
+<a href="https://www.iqiyi.com/v_mjl2k4q6ds.html?vfm=2008_aldbd&fv=p_02_01">点击就看</a>
+<p>夏日冲浪店</p>
+<a href="https://www.iqiyi.com/v_1m6x8dhkf10.html?vfm=2008_aldbd&fv=p_02_01">点击就看</a>
 
 <h2>电视剧</h2>
 
