@@ -29,30 +29,30 @@
 <h2>打篮球</h2>
 
 <div>初中篮球校队</div>
-<img src="D:/My Photo/b2.jpg" alt="打球的小薛" width="650" height="400">
+<img src="https://raw.githubusercontent.com/xuejinglin25/xuejinglin25.github.io/master/picture/b2.png" alt="打球的小薛" width="650" height="400">
 
 <div>高中班级联队</div>
-<img src="D:/My Photo/b3.jpg" alt="打球的小薛" width="650" height="450">
+<img src="https://github.com/xuejinglin25/xuejinglin25.github.io/blob/master/picture/b3.jpg" alt="打球的小薛" width="650" height="450">
 
 <h2>踢足球</h2>
 
 <div>参加高中组织的足球联赛</div>
 
-<img src="D:/My Photo/s1.jpg" alt="踢球的小薛" width="400" height="600">
-<img src="D:/My Photo/s2.jpg" alt="踢球的小薛" width="450" height="600">
+<img src="https://raw.githubusercontent.com/xuejinglin25/xuejinglin25.github.io/master/picture/s1.jpg" alt="踢球的小薛" width="400" height="600">
+<img src="https://raw.githubusercontent.com/xuejinglin25/xuejinglin25.github.io/master/picture/s2.jpg" alt="踢球的小薛" width="450" height="600">
 
 
 <h2>弹吉他</h2>
 
 <div>闲来无事在家里练练吉他</div>
-<img src="D:/My Photo/g1.jpg" alt="弹吉他的小薛" width="400" height="600">
+<img src="https://github.com/xuejinglin25/xuejinglin25.github.io/blob/master/g1.jpg" alt="弹吉他的小薛" width="400" height="600">
 
 <h1>学科兴趣发展</h1>
 
 <h2>化学</h2>
 <p>课下做化学实验</p>
-<img src="D:/My Photo/e0.jpg" alt="做实验的小薛" width="450" height="600">
- <img src="D:/My Photo/e.jpg" alt="小薛的实验器材" width="450" height="600">
+<img src="https://raw.githubusercontent.com/xuejinglin25/xuejinglin25.github.io/master/picture/e0.jpg" alt="做实验的小薛" width="450" height="600">
+ <img src="https://raw.githubusercontent.com/xuejinglin25/xuejinglin25.github.io/master/picture/e.jpg" alt="小薛的实验器材" width="450" height="600">
 
 <h1>我喜欢的事物</h1>
 
@@ -84,6 +84,8 @@
 
 <p><B>斗罗大陆</B></p>
 <a href="https://www.85xs.cc/book/douluodalu1/1.html">点击阅读</a>
+
+<h2>动漫</h2>
 
 <h2>电影</h2>
 
