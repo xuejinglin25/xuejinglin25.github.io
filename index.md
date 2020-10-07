@@ -12,7 +12,7 @@
 <body>
 
 <h1>这里是小薛！<h1>
-<img src="D:/My Photo/成人礼.jpg" alt="成人的小薛" width="540" height="750">
+<img src="https://raw.githubusercontent.com/xuejinglin25/xuejinglin25.github.io/master/picture/%E6%88%90%E4%BA%BA%E7%A4%BC.jpg">
 
 <h1>关于我</h1>
 
